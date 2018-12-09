@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "MVCTraining"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-MVCTraining-d5628c60-7302-4caf-8d72-718429b8d5ef;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
